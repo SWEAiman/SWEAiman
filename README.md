@@ -17,6 +17,7 @@
 <img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/76973607/103588760-d7cbd500-4ee1-11eb-94ce-4d8a7785554a.png" />
 <img align="left" alt="Apple" width="26px" src="https://user-images.githubusercontent.com/76973607/103590186-1adb7780-4ee5-11eb-8f45-103d0889216a.png" />
 <img align="left" alt="Android " width="22px" src="https://user-images.githubusercontent.com/76973607/103590446-cc7aa880-4ee5-11eb-8398-dbcb166cceac.png" />
+<br />
 
 ### Languages and Tools:
 
