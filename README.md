@@ -20,6 +20,7 @@
 <img align="left" alt="Haskell" width="76px" src="https://user-images.githubusercontent.com/76973607/103588723-c1be1480-4ee1-11eb-8c57-446dd487fa6f.png" />
 <img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/76973607/103588760-d7cbd500-4ee1-11eb-94ce-4d8a7785554a.png" />
 <img align="left" alt="Windows" width="26px" src="https://user-images.githubusercontent.com/76973607/103588787-ea460e80-4ee1-11eb-83e2-ac40a8a9fe22.png" />
+<img align="left" alt="MacOS" width="26px" src="https://user-images.githubusercontent.com/76973607/103588855-0d70be00-4ee2-11eb-9a93-34aa460b2a06.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
