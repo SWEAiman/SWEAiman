@@ -15,7 +15,9 @@
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="46px" src="https://user-images.githubusercontent.com/76973607/103589553-8fadb200-4ee3-11eb-88c7-4315f0b2da07.jpg" />
-<img align="left" alt="Python" width="32px" src="https://user-images.githubusercontent.com/76973607/103589779-195d7f80-4ee4-11eb-9cbf-378109c8390c.jpg" /><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Python" width="32px" src="https://user-images.githubusercontent.com/76973607/103589779-195d7f80-4ee4-11eb-9cbf-378109c8390c.jpg" />
+<img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/76973607/103588669-a05d2880-4ee1-11eb-8729-e858a0c065ea.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
